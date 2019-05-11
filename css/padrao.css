@@ -1,0 +1,78 @@
+@charset "UTF-8";
+@font-face {
+  font-family: "PADRAO-icons";
+  src: url("../fonts/PADRAO-icons.4d01a3273d2a.eot");
+  src: url("../fonts/PADRAO-icons.4d01a3273d2a.eot?#iefix") format("eot"), url("../fonts/PADRAO-icons.95372b36d6b3.woff") format("woff"), url("../fonts/PADRAO-icons.f14730edce69.ttf") format("truetype"), url("../fonts/PADRAO-icons.2dac6e582ac8.svg#PADRAO-icons") format("svg"); }
+
+/* line 22, sass/PADRAO-icons.scss */
+.icon-bitcoin:before, .icon-check:before, .icon-diferenciais1:before, .icon-diferenciais2:before, .icon-diferenciais3:before, .icon-email:before, .icon-facebook:before, .icon-lupa:before, .icon-paises:before, .icon-pinterest:before, .icon-play:before, .icon-profissionais:before, .icon-transacoes:before, .icon-twitter:before, .icon-youtube:before {
+  font-family: "PADRAO-icons";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  text-decoration: none;
+  text-transform: none; }
+
+/* line 79, sass/PADRAO-icons.scss */
+.icon-bitcoin:before {
+  content: ""; }
+
+/* line 79, sass/PADRAO-icons.scss */
+.icon-check:before {
+  content: ""; }
+
+/* line 79, sass/PADRAO-icons.scss */
+.icon-diferenciais1:before {
+  content: ""; }
+
+/* line 79, sass/PADRAO-icons.scss */
+.icon-diferenciais2:before {
+  content: ""; }
+
+/* line 79, sass/PADRAO-icons.scss */
+.icon-diferenciais3:before {
+  content: ""; }
+
+/* line 79, sass/PADRAO-icons.scss */
+.icon-email:before {
+  content: ""; }
+
+/* line 79, sass/PADRAO-icons.scss */
+.icon-facebook:before {
+  content: ""; }
+
+/* line 79, sass/PADRAO-icons.scss */
+.icon-lupa:before {
+  content: ""; }
+
+/* line 79, sass/PADRAO-icons.scss */
+.icon-paises:before {
+  content: ""; }
+
+/* line 79, sass/PADRAO-icons.scss */
+.icon-pinterest:before {
+  content: ""; }
+
+/* line 79, sass/PADRAO-icons.scss */
+.icon-play:before {
+  content: ""; }
+
+/* line 79, sass/PADRAO-icons.scss */
+.icon-profissionais:before {
+  content: ""; }
+
+/* line 79, sass/PADRAO-icons.scss */
+.icon-transacoes:before {
+  content: ""; }
+
+/* line 79, sass/PADRAO-icons.scss */
+.icon-twitter:before {
+  content: ""; }
+
+/* line 79, sass/PADRAO-icons.scss */
+.icon-youtube:before {
+  content: ""; }
+
+/*# sourceMappingURL=../sass */
